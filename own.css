@@ -50,10 +50,11 @@ p{
 }
 #features
 {
-   background-image: url(image/p3.jpg);
+/*    background-image: url(image/p3.jpg); */
     background-size: cover;
    background-repeat: no-repeat;
-   
+      background-color: #e0dce4;
+
    
    padding: 7% 15%;
    text-align: center;
